@@ -1,7 +1,6 @@
-The script simulates a dance competition involving multiple agents who collaborate, perform, and are judged on their dance routines. Each agent has preferences and interacts with others to form dance pairs. The simulation iterates through multiple rounds until the partner selection stabilizes, and then it generates reports on the best-performing pairs and routines.
+### **LLMDISCO EVALUATION FRAMEWORK**
 
-### **Practical Applications:**
-This type of simulation could be used for experimenting with multi-agent interactions, preference modeling, and collaborative tasks in a controlled environment. It also demonstrates advanced asynchronous programming and integration with language models for dynamic content generation.
+The script simulates a dance competition involving multiple agents who collaborate, perform, and are judged on their dance routines. Each agent has preferences and interacts with others to form dance pairs. The simulation iterates through multiple rounds until the partner selection stabilizes, and then it generates reports on the best-performing pairs and routines.
 
 ### **Output:**
 The script generates logs, a final report (`final_report.txt`), and a markdown file (`dance_history.md`) containing detailed results of the simulation, including dance pairings, routines, and rankings.
